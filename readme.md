@@ -23,3 +23,7 @@
 
 [Example] : http://example.com
 
+Автоматическая ссылка:
+
+<address@example.com>
+

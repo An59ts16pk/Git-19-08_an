@@ -64,4 +64,5 @@
 
 написали master v2
 
-new task6
+
+new task6 v2
